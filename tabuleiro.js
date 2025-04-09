@@ -1,3 +1,5 @@
+/** O código fonte agora da acessa a Eduarda */
+
 var Tabuleiro = [];
 
 for (let l = 0; l < 5; l++) {
